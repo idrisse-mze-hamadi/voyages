@@ -1,0 +1,171 @@
+.joko {
+    margin: 0;
+}
+
+
+
+
+.lux{
+    background-image:url(https://static1.evcdn.net/images/reduction/1444178_w-1920_h-1080_q-70_m-crop.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+   .midlanegray{
+    text-align: center;
+    box-shadow: black;
+}
+
+.midlane{
+    text-align: center;
+}
+
+
+.boxminitv{
+    position: flex;
+ width: 100%;
+ height: 0%;
+ top: 0%;
+ z-index: -100;
+ transform: translate(-11%, -12%);
+ font-size: -10px;
+}
+
+header {
+    background-color: skyblue;
+    width: 100%;
+    color:aqua;
+    
+}
+.titre {
+    color: azure;
+    font-family: Architects Daughter, cursive;
+    text-align:center;
+}
+* {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: Shadows Into Light, cursive;
+    
+}
+
+.navbar ul {
+    position: relative;
+    width: 100%;
+    list-style: none outside none;
+    display: table;
+}
+
+    .navbar ul > li {
+        display: table-cell;
+    }
+
+    .navbar ul:before, .navbar ul:after {
+        display: table;
+        content: '';
+        clear: both;
+        /* permet de remettre les li float:left dans le flux */
+    }
+
+.navbar > ul li ul {
+    display: none; /* sous-menu masqués */
+    position: absolute;
+    top: 100%;
+    left: 0;
+}
+
+.navbar li:hover > ul {
+    display: block; /* sous-menu affiché */
+    display: table;
+}
+
+/* ----------------------- */
+/* DECORATION */
+.navbar ul { /* niveau 1 */
+    background: transparent;
+}
+
+    .navbar ul ul { /* niveau 2 */
+        background: skyblue;
+    }
+
+        .navbar ul ul ul { /* niveau 3 */
+            background: skyblue;
+        }
+
+    .navbar ul li a {
+        display: block;
+        padding: 10px 15px;
+        color: antiquewhite;
+        text-decoration: none;
+    }
+
+    .navbar ul li:hover > a {
+        background: #20638f;
+        color: #fff;
+    }
+
+    .navbar ul li a {
+        border-right: 0px solid #fff;
+    }
+
+.navbar > ul > li:hover:after,
+.navbar > ul > li > ul > li:hover:after {
+    position: absolute;
+    display: block;
+    content: '';
+    /*triangle */
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 8px 6px 0 6px;
+    border-color: #666 transparent transparent transparent;
+}
+/* ANIMATION */
+.navbar ul li > a {
+    -webkit-transition: all 1s;
+    -moz-transition: all 1s;
+    -ms-transition: all 1s;
+    -o-transition: all 1s;
+    transition: all 1s;
+}
+
+.navbar ul li:hover > a {
+    padding: 10px 25px;
+}
+
+.bshadow{
+    background-color: skyblue ;
+    box-shadow: blue;
+    text-shadow: blueviolet;
+}
+
+.pretanza{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.centrer {
+    justify-content: center;
+    margin: auto;
+    text-align :center;
+    border: medium solid #000000;
+    width: 50%;
+    border-collapse: collapse;
+    }
+
+.titre-activite{
+    font-weight:900;
+    color: skyblue;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+th, td{
+    border: 1px solid black;
+    padding: 10px;
+}
