@@ -1,5 +1,14 @@
-﻿body
-{
+﻿body {
+    background-image: url(https://www.levert.ma/wp-content/uploads/2020/12/Afrique-du-Sud.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+main {
+    display: flex;
+    flex-direction: column-reverse;
+    width: 100%;
 }
 
 /*IMAGE AFRIQUE DU SUD + texte*/
