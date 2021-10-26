@@ -74,17 +74,6 @@
 
 /* ----------------------- */
 /* DECORATION */
-.navbar ul { /* niveau 1 */
-    background: transparent;
-}
-
-    .navbar ul ul { /* niveau 2 */
-        background: skyblue;
-    }
-
-        .navbar ul ul ul { /* niveau 3 */
-            background: skyblue;
-        }
 
     .navbar ul li a {
         display: block;
