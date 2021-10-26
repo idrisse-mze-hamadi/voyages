@@ -8,16 +8,9 @@ body
     background-attachment: fixed;
    
   }
-.titre{
-    font-style: italic;
-    font-weight: bold;
-    font-size: 100px;
-    text-align: center;
-    font-family: "Overlock",Sans-serif;
-    display: table-cell;
-}
 
-.navbar {
+
+.navbar2 {
  
   display: flex;
   justify-content: space-around;
