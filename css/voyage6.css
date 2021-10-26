@@ -127,6 +127,7 @@ span {
     width: 32%;
     margin-top: 40px;
     background-image: url(https://lh3.googleusercontent.com/SpLXfGWuiAAxaBYaQF7kfKeWWECvec6BB_lDcr_UCpRGZzae_dD1HGwCFF9jOapqDWxSz7OrtKdr08f2IiqE5WE=s1200);
+    background-attachment:fixed;
 }
 
 .form {
