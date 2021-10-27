@@ -69,8 +69,6 @@
  
   }
 
-
-
 .perssone{
   width: 85%;
   align-items: center;
@@ -80,18 +78,24 @@
   border-radius: 50px;
 }
 
-.gize{
+.Héraklion{
   text-align:right;
   align-items: center;
 }
-.caire2{
+.grece2{
+ 
+  margin: auto;
   display:flex;
   justify-content: space-around;
   color: azure;
 }
-.imagecaire{
+.imagegrece{
+  margin: auto;
+  display: flex;
+  justify-content:space-around;
   border:0px solid;
-  border-radius: 50px;
+  border-radius: 50%;
+  box-shadow: 10px 10px 6px 4px gray ;
 
 }
 .para{
@@ -112,3 +116,7 @@
   border-radius: 50px;
 }
 
+.carte{
+  padding-top: 40px;
+  padding-bottom: 60px;
+}
