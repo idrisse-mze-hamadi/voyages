@@ -126,7 +126,9 @@ span {
     text-align-last: left;
     width: 32%;
     margin-top: 40px;
-    background-image: url(https://ae01.alicdn.com/kf/HTB1kjBKIXXXXXb7XFXXq6xXFXXXA/Affiche-de-portrait-peinture-sur-toile-de-paysage-image-d-art-traditionnel-japonais-cloche-de-soir.jpg);
+    background-image: url(https://afroculture.net/wp-content/uploads/2018/02/Lionel-Smit-artiste-sud-africain-contemporain-1-360x250.jpg);
+    background-attachment: fixed;
+    color:white;
 }
 
 .form {
