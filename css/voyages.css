@@ -72,6 +72,17 @@ header {
 
 /* ----------------------- */
 /* DECORATION */
+.navbar ul { /* niveau 1 */
+    background: transparent;
+}
+
+    .navbar ul ul { /* niveau 2 */
+        background: skyblue;
+    }
+
+        .navbar ul ul ul { /* niveau 3 */
+            background: skyblue;
+        }
 
 .navbar ul { /* niveau 1 */
     background: transparent;
@@ -180,4 +191,8 @@ footer {
 
 .socials a:hover i {
     color: aqua;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> Afrique-du-sud
