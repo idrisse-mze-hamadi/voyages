@@ -1,9 +1,5 @@
 ﻿body {
-<<<<<<< HEAD:css/voyage5.css
-    background-image: url(https://www.routes-de-legende.fr/wp-content/uploads/2019/05/fujisan-700x525.jpg);
-=======
     background-image: url(https://www.levert.ma/wp-content/uploads/2020/12/Afrique-du-Sud.jpg);
->>>>>>> Afrique-du-sud:css/voyage6.css
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -21,11 +17,7 @@ main {
     margin-top: 10px;
 }
 
-<<<<<<< HEAD:css/voyage5.css
-.japan {
-=======
 .southaf {
->>>>>>> Afrique-du-sud:css/voyage6.css
     padding: 50px 50px;
     max-width: 1200px;
     text-align: center;
@@ -51,13 +43,8 @@ main {
     transition: all .5s;
 }
 
-<<<<<<< HEAD:css/voyage5.css
-.jpn {
-    background-image: url(https://ae01.alicdn.com/kf/HTB1P8g0xOCYBuNkHFCcq6AHtVXas/Affiche-d-art-japonais-en-soie-d-cor-d-art-mural.jpg_Q90.jpg_.webp);
-=======
 .ads {
     background-image: url(https://img.peapix.com/12752733176529007567.jpg?attachment&modal);
->>>>>>> Afrique-du-sud:css/voyage6.css
     background-size: cover;
 }
 
@@ -87,17 +74,10 @@ span {
     transform: scale(1.2);
 }
 
-<<<<<<< HEAD:css/voyage5.css
-    .japancontent:hover .japanchildcontent:before,
-    .japancontent:focus .japanchildcontent:before {
-        display: block;
-    }
-=======
 .southafcontent:hover .southafchildcontent:before,
 .southafcontent:focus .southafchildcontent:before {
     display: block;
 }
->>>>>>> Afrique-du-sud:css/voyage6.css
 
 .southafcontent:hover span,
 .southafcontent:focus span {
@@ -146,15 +126,9 @@ span {
     text-align-last: left;
     width: 32%;
     margin-top: 40px;
-<<<<<<< HEAD:css/voyage5.css
-    background-image: url(https://numpaint.com/wp-content/uploads/2020/08/fuji-china-paint-by-numbers.jpg);
-    background-attachment: fixed;
-    color: lightcoral;
-=======
     background-image: url(https://afroculture.net/wp-content/uploads/2018/02/Lionel-Smit-artiste-sud-africain-contemporain-1-360x250.jpg);
     background-attachment: fixed;
     color:white;
->>>>>>> Afrique-du-sud:css/voyage6.css
 }
 
 .form {
