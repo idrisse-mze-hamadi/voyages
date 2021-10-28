@@ -23,11 +23,11 @@
     height: 20%;
    }
 
-   header {
+header {
     background-color: skyblue;
     width: 100%;
-    color:aqua;
-    
+    color: aqua;
+    font-family: Architects Daughter, cursive;
 }
 .titre {
     color: azure;
@@ -38,8 +38,6 @@
     margin: 0;
     padding: 0;
     text-align: center;
-    font-family: Shadows Into Light, cursive;
-    
 }
 
 .navbar ul {
