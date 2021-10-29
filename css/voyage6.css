@@ -1,5 +1,14 @@
-﻿body
-{
+﻿body {
+    background-image: url(https://www.levert.ma/wp-content/uploads/2020/12/Afrique-du-Sud.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+main {
+    display: flex;
+    flex-direction: column-reverse;
+    width: 100%;
 }
 
 /*IMAGE AFRIQUE DU SUD + texte*/
@@ -35,7 +44,7 @@
 }
 
 .ads {
-    background-image: url(https://cdn.shopify.com/s/files/1/0293/5609/7614/files/drapeau-japonais.png?v=1605357631);
+    background-image: url(https://img.peapix.com/12752733176529007567.jpg?attachment&modal);
     background-size: cover;
 }
 
@@ -117,7 +126,9 @@ span {
     text-align-last: left;
     width: 32%;
     margin-top: 40px;
-    background-image: url(https://ae01.alicdn.com/kf/HTB1kjBKIXXXXXb7XFXXq6xXFXXXA/Affiche-de-portrait-peinture-sur-toile-de-paysage-image-d-art-traditionnel-japonais-cloche-de-soir.jpg);
+    background-image: url(https://afroculture.net/wp-content/uploads/2018/02/Lionel-Smit-artiste-sud-africain-contemporain-1-360x250.jpg);
+    background-attachment: fixed;
+    color:white;
 }
 
 .form {
