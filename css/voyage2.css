@@ -17,13 +17,19 @@
   align-items:  center;
 
 } 
-.aegypte{
+/*.aegypte{
   color: aliceblue;
-}
-.a:hover {
+}*/
+a:hover {
   color: #44c91c;
 }
+.navbarbody a:visited {
+    color:blue;
+}
 
+.navbarbody a:visited:hover {
+    color: #44c91c;
+}
  
   
 
@@ -180,4 +186,11 @@ footer{
 }
 .socials a:hover i{
   color: aqua;
+}
+.haut {
+    background-color: white;
+    color: black;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 2px;
 }
